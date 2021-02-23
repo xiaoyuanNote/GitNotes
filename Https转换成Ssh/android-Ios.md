@@ -21,7 +21,7 @@
 
 #### 解决 1
 
-![](/Users/zwl/web/github/GitNotes/Https转换成Ssh/md.assets/1.1.png)
+![](./md.assets/1.1.png)
 
 如图所示，我没有使用第一中方式（担心引出其他项目问题），先是试用了更改http buffer，结果出现以下问题
 
