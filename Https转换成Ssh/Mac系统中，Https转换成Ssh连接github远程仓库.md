@@ -1,4 +1,4 @@
-## Https转换成Ssh连接github远程仓库
+## Mac系统中，Https转换成Ssh连接github远程仓库
 
 > 使用ssh连接远程仓库
 >
